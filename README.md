@@ -37,6 +37,7 @@
 </div>
 </details>
 
+<!--
 <details>
   <summary>🧮 about</summary>
 <div>
@@ -59,6 +60,7 @@
  </p>
 </div>
 </details>
+-->
 
 <details>
   <summary>🌏 global</summary>
