@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Robert</h1>
-<h4 align="center"></h4>
+<h4 align="center">Software engineering student at Esslingen university</h4>
 </div>
 
 <div align="center">
@@ -27,6 +27,12 @@
       <a href="https://discord.gg/j85GD8Vf" target="blank"><img align="center"
          src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
          alt="addons01" height="30"/></a>
+      <a href="mailto:fesko.robert@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://wa.me/+4917657860063" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
      <!--
      <a href="https://www.youtube.com/c/addons01" target="blank"><img align="center"
          src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
@@ -62,6 +68,7 @@
 </details>
 -->
 
+<!--
 <details>
   <summary>🌏 global</summary>
 <div>
@@ -117,6 +124,8 @@
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ```
 </details>
+-->
+
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
