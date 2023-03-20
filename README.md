@@ -13,7 +13,7 @@
   <summary>☎️ contact me</summary>
 <div>
   <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
+    <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
       <!--
