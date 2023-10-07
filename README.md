@@ -34,16 +34,6 @@
 </details>
 
 <details>
-  <summary>🕹️ Hobbies & Interests</summary>
-  <p align="center">I love playing chess 🎲, coding AI algorithms 🤖, and deep-diving into data structures 📊.</p>
-</details>
-
-<details>
-  <summary>🎯 Goals for 2023</summary>
-  <p align="center">My main focus is to contribute to open-source projects related to machine learning 🤓 and web development 💻.</p>
-</details>
-
-<details>
   <summary>📊 GitHub Stats</summary>
   <div align="center">
     <br>
