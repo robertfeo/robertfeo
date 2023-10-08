@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 align="center">👋 Hey there, I'm Robert! 🚀</h1>
+  <h1 align="center">👋 Hey there, I'm Robert! </h1>
   <h3 align="center">Just another Software Engineering Knight ⚔️ from Esslingen University 🏰</h3>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
