@@ -1,15 +1,7 @@
 <div align="center">
-
   <h1 align="center">👋 Hey there, I'm Robert! </h1>
   <h3 align="center">Just another Software Engineering Knight ⚔️ from Esslingen University 🏰</h3>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  
-</div>
-
-<div align="center">
-  <a href="https://github.com/robertfeo">
-    <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-  </a>
 </div>
 
 <details>
