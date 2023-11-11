@@ -1,39 +1,17 @@
-<div align="center">
-  <h1 align="center">👋 Hey there, I'm Robert! </h1>
-  <h3 align="center">Just another Software Engineering Knight ⚔️</h3>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</div>
+<h1 align="center">Hi 👋, I'm Robert</h1>
+<h3 align="center">Just another Software Engineering Knight ⚔️</h3>
 
-<details>
-  <summary>🔗 Get In Touch</summary>
-  <div align="center">
-    <samp>
-      <h2 align="center">Let's Connect! 🌐</h2>
-      <p align="center">
-        <br/>
-        <a href="https://steamcommunity.com/id/addons01/" target="blank"><img align="center"
-           src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
-           alt=addons01" height="30"/></a>
-        <a href="https://discord.gg/j85GD8Vf" target="blank"><img align="center"
-           src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-           alt="addons01" height="30"/></a>
-        <a href="mailto:fesko.robert@gmail.com" target="blank"><img align="center"
-           src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-           alt="azzar" height="30"/></a>
-      </p>
-    </samp>
-  </div>
-</details>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=robertfeo&label=Profile%20views&color=0e75b6&style=flat" alt="robertfeo" /> </p>
 
-<details>
-  <summary>📊 GitHub Stats</summary>
-  <div align="center">
-    <br>
-    <a href="https://github.com/robertfeo">
-      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=robertfeo&show_icons=true&theme=gruvbox&hide_border=true" />
-      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=robertfeo&theme=gruvbox&hide_border=true" />
-    </a>
-  </div>
-</details>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertfeo&show_icons=true&locale=en&layout=compact" alt="robertfeo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertfeo&show_icons=true&locale=en" alt="robertfeo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertfeo&" alt="robertfeo" /></p>
