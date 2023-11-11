@@ -11,7 +11,6 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=robertfeo&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=robertfeo&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=robertfeo&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertfeo&hide_progress=true)
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
