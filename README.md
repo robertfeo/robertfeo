@@ -159,7 +159,7 @@
 ---
 
 ### ℹ️ About
-I’m a Software Engineer with a strong foundation in **Java, C#** and big interest in **modern web frameworks**.  
+I’m a Software Engineer with a strong foundation in **Java, C#** and interested in **modern web frameworks**.  
 During my studies and projects, I specialized in **building full-stack applications, securing them with authentication solutions, and deploying them in containerized environments**.  
 
 I enjoy experimenting with my **homelab setup** where I run a wide range of services for learning, testing, and automation.  
