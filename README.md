@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=robertfeo" alt="Profile Views"/>
 </p> -->
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">Just another Software Engineering Knight ⚔️</h3>
+<!-- <h3 align="center">Just another Software Engineering Knight ⚔️</h3> -->
 
 <!-- Quick Nav -->
 <p align="center">
@@ -146,16 +146,13 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=robertfeo&theme=default&hide_border=true&include_all_commits=true&count_private=false" alt="stats"/>
   <br/>
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertfeo&theme=default&hide_border=true" alt="streak"/>
-  <br/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertfeo&theme=default&hide_border=true" alt="streak"/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertfeo&hide_progress=true" alt="top langs"/>
-</p>
-
----
+</p> -->
 
 ### ℹ️ About
 I’m a Software Engineer with a strong foundation in **Java, C#** and interested in **modern web frameworks**.  
