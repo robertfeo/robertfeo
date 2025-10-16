@@ -18,17 +18,11 @@
 <details open>
   <summary><b>🌐 Frontend</b> <sub>(click to toggle)</sub></summary>
   <p>
-    <a href="https://vuejs.org" title="Vue.js">
-      <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
-    </a>
     <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" title="Blazor">
       <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
     </a>
     <a href="https://tailwindcss.com" title="Tailwind CSS">
       <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-    </a>
-    <a href="https://htmx.org" title="HTMX">
-      <img src="https://img.shields.io/badge/HTMX-3366cc?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX"/>
     </a>
     <a href="https://www.markdownguide.org/" title="Markdown">
       <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
@@ -69,8 +63,8 @@
     <a href="https://www.postgresql.org/" title="PostgreSQL">
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
     </a>
-    <a href="https://www.microsoft.com/sql-server" title="MS SQL Server">
-      <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server"/>
+    <a href="https://sqlite.org/" title="SQLite">
+      <img src="https://img.shields.io/badge/SQlite-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" alt="MS SQL Server"/>
     </a>
   </p>
 </details>
@@ -90,9 +84,6 @@
     <a href="https://www.docker.com/" title="Docker">
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     </a>
-    <a href="https://podman.io" title="Podman">
-      <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman"/>
-    </a>
     <a href="https://traefik.io/traefik/" title="Traefik">
       <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik"/>
     </a>
@@ -101,9 +92,6 @@
     </a>
     <a href="https://about.gitlab.com/" title="GitLab">
       <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange" alt="GitLab"/>
-    </a>
-    <a href="https://www.jenkins.io/" title="Jenkins">
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
     </a>
   </p>
 </details>
@@ -131,9 +119,6 @@
     </a>
     <a href="https://code.visualstudio.com/" title="VS Code">
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    </a>
-    <a href="https://www.jetbrains.com/rider/" title="JetBrains Rider">
-      <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=crimson" alt="Rider"/>
     </a>
     <a href="https://www.atlassian.com/software/jira" title="Jira">
       <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
