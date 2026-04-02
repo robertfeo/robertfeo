@@ -24,6 +24,15 @@
     <a href="https://tailwindcss.com" title="Tailwind CSS">
       <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
     </a>
+    <a href="https://vuejs.org/" title="Vue.js">
+      <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
+    </a>
+    <a href="https://nextjs.org/" title="Next.js">
+      <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+    </a>
+    <a href="https://htmx.org/" title="HTMX">
+      <img src="https://img.shields.io/badge/HTMX-%23222222.svg?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX"/>
+    </a>
     <a href="https://www.markdownguide.org/" title="Markdown">
       <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
     </a>
