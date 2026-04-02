@@ -24,9 +24,19 @@
     <a href="https://tailwindcss.com" title="Tailwind CSS">
       <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
     </a>
+    <a href="https://vuejs.org/" title="Vue.js">
+      <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
+    </a>
+    <a href="https://nextjs.org/" title="Next.js">
+      <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+    </a>
+    <a href="https://htmx.org/" title="HTMX">
+      <img src="https://img.shields.io/badge/HTMX-%23222222.svg?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX"/>
+    </a>
     <a href="https://www.markdownguide.org/" title="Markdown">
       <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
     </a>
+
   </p>
 </details>
 
@@ -54,6 +64,12 @@
     <a href="https://www.npmjs.com/" title="NPM">
       <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
     </a>
+    <a href="https://learn.microsoft.com/aspnet/core/signalr/introduction" title="SignalR">
+      <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR"/>
+    </a>
+    <a href="https://github.com/DapperLib/Dapper" title="Dapper">
+      <img src="https://img.shields.io/badge/Dapper-2C2255?style=for-the-badge&logoColor=white" alt="Dapper"/>
+    </a>
   </p>
 </details>
 
@@ -65,6 +81,9 @@
     </a>
     <a href="https://sqlite.org/" title="SQLite">
       <img src="https://img.shields.io/badge/SQlite-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" alt="MS SQL Server"/>
+    </a>
+    <a href="https://hibernate.org/" title="JPA/Hibernate">
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
     </a>
   </p>
 </details>
@@ -92,6 +111,30 @@
     </a>
     <a href="https://about.gitlab.com/" title="GitLab">
       <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange" alt="GitLab"/>
+    </a>
+    <a href="https://git-scm.com/" title="Git">
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    </a>
+    <a href="https://azure.microsoft.com/products/devops" title="Azure DevOps">
+      <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
+    </a>
+    <a href="https://podman.io/" title="Podman">
+      <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman"/>
+    </a>
+    <a href="https://www.jenkins.io/" title="Jenkins">
+      <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary><b>🧪 Testing</b></summary>
+  <p>
+    <a href="https://junit.org/junit5/" title="JUnit">
+      <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+    </a>
+    <a href="https://nunit.org/" title="NUnit">
+      <img src="https://img.shields.io/badge/NUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="NUnit"/>
     </a>
   </p>
 </details>
@@ -126,6 +169,15 @@
     <a href="https://www.atlassian.com/software/confluence" title="Confluence">
       <img src="https://img.shields.io/badge/Confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
     </a>
+    <a href="https://www.eclipse.org/ide/" title="Eclipse">
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
+    </a>
+    <a href="https://www.figma.com/" title="Figma">
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    </a>
+    <a href="https://github.com/features/copilot" title="GitHub Copilot">
+      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/>
+    </a>
   </p>
 </details>
 
@@ -138,6 +190,13 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertfeo&hide_progress=true" alt="top langs"/>
 </p> -->
+
+### ❤️ Passions
+
+**🏠 Self-Hosting & Cloud Computing**  
+I run several containerized open-source services on my personal homelab using Docker Compose, following an Infrastructure-as-Code approach with versioned configuration files, automated backups, and deployment scripts.
+
+---
 
 ### ℹ️ About
 I’m a Software Engineer with a strong foundation in **Java, C#** and interested in **modern web frameworks**.  
