@@ -36,12 +36,7 @@
     <a href="https://www.markdownguide.org/" title="Markdown">
       <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
     </a>
-    <a href="https://www.typescriptlang.org/" title="TypeScript">
-      <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    </a>
-    <a href="https://react.dev/" title="React">
-      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-    </a>
+
   </p>
 </details>
 
